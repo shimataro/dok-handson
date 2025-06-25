@@ -1,6 +1,4 @@
-# DOK-handon
-
-[高火力 DOK](https://www.sakura.ad.jp/koukaryoku-dok/) ハンズオン
+# [高火力 DOK](https://www.sakura.ad.jp/koukaryoku-dok/) ハンズオン
 
 ## 必要なもの
 
